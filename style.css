@@ -15,7 +15,7 @@ nav ul li{
   font-size: 35px;
   color: black;
 }
-.div{
+.div1{
   background-color:rgb(34, 129, 34) ;
   color: white;
 }
@@ -25,4 +25,10 @@ div{
   text-decoration: underline;
   text-transform: none;
   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.div2{
+  background-color: rgb(206, 30, 80);
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-transform: none;
 }
