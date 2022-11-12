@@ -5,3 +5,8 @@ h2{
   color: blueviolet;
   font-family: 'Times New Roman', Times, serif;
 }
+p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 16px;
+  color:rgb(212, 18, 18)
+}
