@@ -15,28 +15,62 @@ nav ul li{
   font-size: 35px;
   color: black;
 }
-.div1{
-  background-color:rgb(34, 129, 34) ;
+.button{
+  
+  display:inline-block;
+  background-color: rgb(126, 126, 222);
   color: white;
+  font-size: 18px;
+   
+  padding-top: 15px; 
+  padding-right: 20px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+ 
+  border:3px solid rgb(249, 244, 248);
+
+
+  border-radius: 15px;
+
+  font-weight: 700;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: none;
+ 
+ border-radius: 10px;
+
 }
-div{
+.button-TikTok:hover{
+  background-color: rgb(79, 74, 74);
+}
+.button-TikTok{
   background-color: black;
-  color:white;
-  text-decoration: underline;
-  text-transform: none;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-}
-.div2{
-  background-color: rgb(206, 30, 80);
   color: white;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  text-transform: none;
+  border-color: rgb(115, 112, 112);
 }
-.div3 {
-  background-color: rgb(95, 95, 226);
+.button-WhatsApp{
+  background-color: rgb(72, 243, 49);
   color: white;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
+  border-color: #078d0b;
+  }
+  .button-WhatsApp:hover{
+    background-color: rgb(38, 110, 25);
+  }
+  .button-Instagram{
+    background-color: rgb(170, 35, 25);
+    color: white;
+    border-color: rgb(135, 30, 49);
+  }
+  .button-Instagram:hover{
+    background-color: crimson;
+  }
+  .button-Telegram{
+    background-color: rgb(73, 73, 236);
+    color: white;
+    border-color: rgb(36, 36, 117);
+  }
+  .button-Telegram:hover{
+    background-color: blue;
+  }
 .div4{
   width: 400px;
   height: 500px;
