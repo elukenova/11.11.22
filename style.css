@@ -47,3 +47,10 @@ h4{
   font-style: normal;
   font-size: 35px;
 }
+footer ul li a{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  color: black;
+
+}
