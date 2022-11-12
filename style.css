@@ -10,3 +10,8 @@ p{
   font-size: 16px;
   color:rgb(212, 18, 18)
 }
+nav ul li{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 25px;
+  color: black;
+}
